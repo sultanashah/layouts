@@ -1,0 +1,26 @@
+.container{
+    background-color: black;
+    display: grid;
+    grid-template-columns: repeat(4,100px);
+    grid-template-rows: repeat(4,100px);
+    /* grid-template-rows: 100px 1fr 100px 100px;
+    grid-template-columns: 100px 1fr 100px 100p; */
+    gap: 5px;
+
+}
+.pink1{
+   background-image: linear-gradient(to right,blue,pink);
+}
+
+.pink2{
+    background-image: linear-gradient(to right,blue,pink);
+ }
+
+
+ .pink3{
+    background-image: linear-gradient(to right,blue,pink);
+ }
+
+ .pink4{
+    background-image: linear-gradient(to right,blue,pink);
+ }

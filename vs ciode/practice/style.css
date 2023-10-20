@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* body{
+    
+} */
+
+.header{
+    width: 100px;
+    height: 100vh;
+    background-image: linear-gradient(rgba(4,9,30,0.7)),rgba(4,9,30,0.7), url(hourglass-time-banner-background-format-wood-54533019.png
+    );
+    position: relative;
+}
